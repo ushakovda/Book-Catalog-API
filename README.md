@@ -9,7 +9,17 @@
 
 ## Запуск
 
-1) В корне проекта выполните:
+1) Склонируйте репозиторий (скопируйте и вставьте команду в терминал):
+```bash
+git clone https://github.com/ushakovda/Book-Catalog-API.git
+````
+
+2) Перейдите в каталог проекта:
+```bash
+cd Book-Catalog-API
+````
+
+3) Запустите контейнеры
 ```bash
 docker compose up --build
 ```
