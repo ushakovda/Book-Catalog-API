@@ -1,0 +1,11 @@
+.venv
+.idea
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.git
+.vscode
+dist
+build
